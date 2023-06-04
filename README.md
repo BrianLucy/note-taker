@@ -50,11 +50,6 @@ The Note Taker application in use.
 * [BootStrap](https://getbootstrap.com/)
 
 <br />
-
-## Questions
-
-
-<br />
     
 ## Credits
-* Starter code provided by 
+* Starter code provided by GT Coding Boot Camp
